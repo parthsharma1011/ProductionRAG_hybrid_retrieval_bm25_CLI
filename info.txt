@@ -1,0 +1,29 @@
+step - 1 : Requirements.txt
+
+step - 2 : Config.py
+
+step - 3 : core/document_processor.py
+
+step - 4 : core/ embeddings.py 
+
+step - 5 : core/vector_store.py
+
+step - 6 : core/bm25_store.py
+
+step - 7 : core/hybrid_search.py
+
+step - 8 : core/reranker.py 
+
+step - 9 : core/cache.py
+
+
+
+
+
+
+## 
+BM25 - doc
+RRF. - doc 
+arch of RAG - handwritten, block
+
+#balance couplinhg and cohesion 
