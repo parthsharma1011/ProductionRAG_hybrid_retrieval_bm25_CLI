@@ -1,6 +1,6 @@
 # Production RAG — Hybrid Retrieval with BM25 + FAISS
 
-A production-ready Retrieval-Augmented Generation (RAG) CLI that combines dense vector search (FAISS) and sparse keyword search (BM25) via Reciprocal Rank Fusion, with an optional cross-encoder reranker, conversation memory, and query caching — all powered by Google Gemini.
+A production-ready Retrieval-Augmented Generation (RAG) CLI that combines dense vector search (FAISS) and sparse keyword search (BM25) via Reciprocal Rank Fusion, with an optional cross-encoder reranker, conversation memory, and query caching works with the Gemini API.
 
 ---
 
